@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "uni9000_ver" -lib "aim_ver" -lib "cpld_ver" -lib "xilinxcorelib_ver" -o "Z:/experiments/xilinx/logiana3/logiana_test_isim_beh.exe" -prj "Z:/experiments/xilinx/logiana3/logiana_test_beh.prj" "work.logiana_test" "work.glbl" 
